@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Obesity Level Estimation Using Regression Models
 
 This project implements regression models to predict body weight using biological and lifestyle data from the UCI Machine Learning Repository. 
@@ -108,8 +107,3 @@ Computer Engineering Undergraduate
 
 This project is licensed under the MIT License.
 
-
-=======
-# Obesity-regression-bioinformatics
-Regression analysis for obesity estimation using UCI dataset
->>>>>>> 2be45c3d4fbe3e63466c82444b88773db558373b
